@@ -1,0 +1,283 @@
+fileFormatVersion: 2
+guid: df0cdf4c3febabc4c9419050e24f70a2
+timeCreated: 1440348934
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Arm_L
+    100002: Arm_R
+    100004: Armature
+    100006: Bone
+    100008: Bone_L.004
+    100010: Bone_L.005
+    100012: Bone_L.005_end
+    100014: Bone_L.006
+    100016: Bone_L.007
+    100018: Bone_L.007_end
+    100020: Bone_L.008
+    100022: Bone_L.009
+    100024: Bone_L.009_end
+    100026: Bone_L.010
+    100028: Bone_L.011
+    100030: Bone_L.011_end
+    100032: Bone_L.012
+    100034: Bone_L.013
+    100036: Bone_L.013_end
+    100038: Bone_R.004
+    100040: Bone_R.005
+    100042: Bone_R.005_end
+    100044: Bone_R.006
+    100046: Bone_R.007
+    100048: Bone_R.007_end
+    100050: Bone_R.008
+    100052: Bone_R.009
+    100054: Bone_R.009_end
+    100056: Bone_R.010
+    100058: Bone_R.011
+    100060: Bone_R.011_end
+    100062: Bone_R.012
+    100064: Bone_R.013
+    100066: Bone_R.013_end
+    100068: Feat_L
+    100070: Feat_L_end
+    100072: Feat_R
+    100074: Feat_R_end
+    100076: Head
+    100078: Head_end
+    100080: HeadBone
+    100082: Leg_L
+    100084: Leg_R
+    100086: Player
+    100088: //RootNode
+    100090: Shoulder_L
+    100092: Shoulder_R
+    400000: Arm_L
+    400002: Arm_R
+    400004: Armature
+    400006: Bone
+    400008: Bone_L.004
+    400010: Bone_L.005
+    400012: Bone_L.005_end
+    400014: Bone_L.006
+    400016: Bone_L.007
+    400018: Bone_L.007_end
+    400020: Bone_L.008
+    400022: Bone_L.009
+    400024: Bone_L.009_end
+    400026: Bone_L.010
+    400028: Bone_L.011
+    400030: Bone_L.011_end
+    400032: Bone_L.012
+    400034: Bone_L.013
+    400036: Bone_L.013_end
+    400038: Bone_R.004
+    400040: Bone_R.005
+    400042: Bone_R.005_end
+    400044: Bone_R.006
+    400046: Bone_R.007
+    400048: Bone_R.007_end
+    400050: Bone_R.008
+    400052: Bone_R.009
+    400054: Bone_R.009_end
+    400056: Bone_R.010
+    400058: Bone_R.011
+    400060: Bone_R.011_end
+    400062: Bone_R.012
+    400064: Bone_R.013
+    400066: Bone_R.013_end
+    400068: Feat_L
+    400070: Feat_L_end
+    400072: Feat_R
+    400074: Feat_R_end
+    400076: Head
+    400078: Head_end
+    400080: HeadBone
+    400082: Leg_L
+    400084: Leg_R
+    400086: Player
+    400088: //RootNode
+    400090: Shoulder_L
+    400092: Shoulder_R
+    4300000: Player
+    7400000: Armature|ArmatureAction.001
+    9500000: //RootNode
+    13700000: Player
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature|ArmatureAction.001
+      takeName: Armature|ArmatureAction.001
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone
+        weight: 1
+      - path: Armature/Bone/HeadBone
+        weight: 1
+      - path: Armature/Bone/HeadBone/Head
+        weight: 1
+      - path: Armature/Bone/HeadBone/Head/Head_end
+        weight: 1
+      - path: Armature/Bone/Leg_L
+        weight: 1
+      - path: Armature/Bone/Leg_L/Feat_L
+        weight: 1
+      - path: Armature/Bone/Leg_L/Feat_L/Feat_L_end
+        weight: 1
+      - path: Armature/Bone/Leg_R
+        weight: 1
+      - path: Armature/Bone/Leg_R/Feat_R
+        weight: 1
+      - path: Armature/Bone/Leg_R/Feat_R/Feat_R_end
+        weight: 1
+      - path: Armature/Bone/Shoulder_L
+        weight: 1
+      - path: Armature/Bone/Shoulder_L/Arm_L
+        weight: 1
+      - path: Armature/Bone/Shoulder_L/Arm_L/Bone_L.004
+        weight: 1
+      - path: Armature/Bone/Shoulder_L/Arm_L/Bone_L.004/Bone_L.005
+        weight: 1
+      - path: Armature/Bone/Shoulder_L/Arm_L/Bone_L.004/Bone_L.005/Bone_L.005_end
+        weight: 1
+      - path: Armature/Bone/Shoulder_L/Arm_L/Bone_L.006
+        weight: 1
+      - path: Armature/Bone/Shoulder_L/Arm_L/Bone_L.006/Bone_L.007
+        weight: 1
+      - path: Armature/Bone/Shoulder_L/Arm_L/Bone_L.006/Bone_L.007/Bone_L.007_end
+        weight: 1
+      - path: Armature/Bone/Shoulder_L/Arm_L/Bone_L.008
+        weight: 1
+      - path: Armature/Bone/Shoulder_L/Arm_L/Bone_L.008/Bone_L.009
+        weight: 1
+      - path: Armature/Bone/Shoulder_L/Arm_L/Bone_L.008/Bone_L.009/Bone_L.009_end
+        weight: 1
+      - path: Armature/Bone/Shoulder_L/Arm_L/Bone_L.010
+        weight: 1
+      - path: Armature/Bone/Shoulder_L/Arm_L/Bone_L.010/Bone_L.011
+        weight: 1
+      - path: Armature/Bone/Shoulder_L/Arm_L/Bone_L.010/Bone_L.011/Bone_L.011_end
+        weight: 1
+      - path: Armature/Bone/Shoulder_L/Arm_L/Bone_L.012
+        weight: 1
+      - path: Armature/Bone/Shoulder_L/Arm_L/Bone_L.012/Bone_L.013
+        weight: 1
+      - path: Armature/Bone/Shoulder_L/Arm_L/Bone_L.012/Bone_L.013/Bone_L.013_end
+        weight: 1
+      - path: Armature/Bone/Shoulder_R
+        weight: 1
+      - path: Armature/Bone/Shoulder_R/Arm_R
+        weight: 1
+      - path: Armature/Bone/Shoulder_R/Arm_R/Bone_R.004
+        weight: 1
+      - path: Armature/Bone/Shoulder_R/Arm_R/Bone_R.004/Bone_R.005
+        weight: 1
+      - path: Armature/Bone/Shoulder_R/Arm_R/Bone_R.004/Bone_R.005/Bone_R.005_end
+        weight: 1
+      - path: Armature/Bone/Shoulder_R/Arm_R/Bone_R.006
+        weight: 1
+      - path: Armature/Bone/Shoulder_R/Arm_R/Bone_R.006/Bone_R.007
+        weight: 1
+      - path: Armature/Bone/Shoulder_R/Arm_R/Bone_R.006/Bone_R.007/Bone_R.007_end
+        weight: 1
+      - path: Armature/Bone/Shoulder_R/Arm_R/Bone_R.008
+        weight: 1
+      - path: Armature/Bone/Shoulder_R/Arm_R/Bone_R.008/Bone_R.009
+        weight: 1
+      - path: Armature/Bone/Shoulder_R/Arm_R/Bone_R.008/Bone_R.009/Bone_R.009_end
+        weight: 1
+      - path: Armature/Bone/Shoulder_R/Arm_R/Bone_R.010
+        weight: 1
+      - path: Armature/Bone/Shoulder_R/Arm_R/Bone_R.010/Bone_R.011
+        weight: 1
+      - path: Armature/Bone/Shoulder_R/Arm_R/Bone_R.010/Bone_R.011/Bone_R.011_end
+        weight: 1
+      - path: Armature/Bone/Shoulder_R/Arm_R/Bone_R.012
+        weight: 1
+      - path: Armature/Bone/Shoulder_R/Arm_R/Bone_R.012/Bone_R.013
+        weight: 1
+      - path: Armature/Bone/Shoulder_R/Arm_R/Bone_R.012/Bone_R.013/Bone_R.013_end
+        weight: 1
+      - path: Player
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

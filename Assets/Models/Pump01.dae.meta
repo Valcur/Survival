@@ -1,0 +1,128 @@
+fileFormatVersion: 2
+guid: f3e6283dbc8e5de4f968ecbdb440858b
+timeCreated: 1440089109
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Armor
+    100002: Body
+    100004: Border
+    100006: Coal
+    100008: Gear_01
+    100010: Gear_02
+    100012: Gear_03
+    100014: Ground
+    100016: Pipeline
+    100018: Pipeline_02
+    100020: Pump
+    100022: //RootNode
+    100024: Valve
+    400000: Armor
+    400002: Body
+    400004: Border
+    400006: Coal
+    400008: Gear_01
+    400010: Gear_02
+    400012: Gear_03
+    400014: Ground
+    400016: Pipeline
+    400018: Pipeline_02
+    400020: Pump
+    400022: //RootNode
+    400024: Valve
+    2300000: Armor
+    2300002: Body
+    2300004: Border
+    2300006: Coal
+    2300008: Gear_01
+    2300010: Gear_02
+    2300012: Gear_03
+    2300014: Ground
+    2300016: Pipeline
+    2300018: Pipeline_02
+    2300020: Pump
+    2300022: Valve
+    3300000: Armor
+    3300002: Body
+    3300004: Border
+    3300006: Coal
+    3300008: Gear_01
+    3300010: Gear_02
+    3300012: Gear_03
+    3300014: Ground
+    3300016: Pipeline
+    3300018: Pipeline_02
+    3300020: Pump
+    3300022: Valve
+    4300000: Ground
+    4300002: Pipeline
+    4300004: Gear_03
+    4300006: Pump
+    4300008: Gear_02
+    4300010: Gear_01
+    4300012: Armor
+    4300014: Border
+    4300016: Coal
+    4300018: Valve
+    4300020: Pipeline_02
+    4300022: Body
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 0
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
